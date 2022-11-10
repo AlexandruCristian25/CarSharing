@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CarSharing</string>
+    <string name="addUser_eroare_nume">Nume utilizator incorect. Minim 3 caractere</string>
+    <string name="AddUser_eroare_parola">Parola  incorecta. Minim 3 caractere</string>
+    <string name="SelectDestination_eroare_Destinatie" />
+    <string name="SelectDestination_eroare_NumarDePersoane" />
+    <string name="CarShareActivity_title">Share your car. Please insert details below</string>
+    <string name="CarShareActivity_name">Your name</string>
+    <string name="CarShareActivity_car">Car Brand</string>
+    <string name="CarShareActivity_year">Year of manufacturing</string>
+    <string name="CarShareActivity_start_location">Start Location</string>
+    <string name="CarShareActivity_end_location">End Location</string>
+</resources>

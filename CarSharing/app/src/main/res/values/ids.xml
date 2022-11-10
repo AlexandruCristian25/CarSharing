@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ShareCar" type="id" />
+    <item name="RideCar" type="id" />
+    <item name="tiet_personNumber" type="id" />
+</resources>
